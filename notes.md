@@ -1,4 +1,6 @@
-"""Setup and Imports"""
+## Setup and Imports
+
+```
 
 from __future__ import absolute_import, division, print_function, unicode_literals
 
@@ -12,7 +14,10 @@ import tensorflow.compat.v2.feature_column as fc
 
 import tensorflow as tf
 
-"""Linear Regression"""
+```
+
+
+## Linear Regression
 
 import matplotlib.pyplot as plt
 import numpy as np
