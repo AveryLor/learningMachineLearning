@@ -228,3 +228,6 @@ States: In each markov model we have a finite set of states. These states could 
 **Observations:** Each state has a particular outcome or observation associated with it based on a probability distribution. An example of this is the following: **On a hot dya Tim has an 80% change of being happy and a 20% chance of being sad.**
 
 **Transitions:** Each state will hvae a probability defining the likelyhood of transitioning to a different state. An example is the following: a cold day has a 30% change of being followed by a hot dat and a 70% change of being followed by another cold day. 
+
+
+New Notes section
