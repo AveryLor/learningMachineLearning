@@ -230,6 +230,3 @@ States: In each markov model we have a finite set of states. These states could 
 **Transitions:** Each state will hvae a probability defining the likelyhood of transitioning to a different state. An example is the following: a cold day has a 30% change of being followed by a hot dat and a 70% change of being followed by another cold day. 
 
 
-New Notes section
-
-hello
